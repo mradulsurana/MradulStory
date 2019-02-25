@@ -1,3 +1,5 @@
 Once upon a time a student was was told to program an AVL and BST Tree. It tooks him hours and hours to program to tree and then he realized his amazing professors gave him an extension. He finished th program and lived happily ever after..
 
 At lest that's what he thought. "Just wait for the next assignment" snickered the proffessor. The next week, Professor Andy gave another really hard program and told us he will not give us another extension like this previous one. So we actually have to start on the program the day it is released. Thankfully Pinhead Larry, the TA, decided to go help all of the students.  He told them how to do the code and of course he brought his free burgers from his favorite burger place, Burgers For Larry.
+
+Of course he didn't forget the burger sauce. In the end the student and Pinhead Lived happily ever after.
