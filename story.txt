@@ -1,0 +1,2 @@
+Once upon a time a student was was told to program an AVL and BST Tree. It tooks him hours and hours to program to tree and then he realized his amazing professors gave him an extension. He finished th program and lived happily ever after.
+
